@@ -1,0 +1,3 @@
+greet: data/greetings.csv
+batch: Trio
+character: stegosaurus
